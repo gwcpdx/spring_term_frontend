@@ -1,4 +1,4 @@
-# spring_term_frontend
-Spring term frontend lesson plans
+# Spring Term Front End Repository!
 
-Coming soon...
+
+More coming soon...
