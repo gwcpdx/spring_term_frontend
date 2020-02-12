@@ -1,5 +1,11 @@
 # GWC Front End Resource List
 
+**HTML & CSS Glossaries:**
+
+https://www.w3schools.com/tags/ref_byfunc.asp
+
+https://www.w3schools.com/cssref/
+
 
 **How to use Flexbox for your layout:**
 
