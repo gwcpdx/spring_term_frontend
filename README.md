@@ -1,6 +1,5 @@
 # Spring Term Front End Repository!
 
-Week 1: https://repl.it/@rworthman/girlswhocode1
-talk track: https://docs.google.com/document/d/1jhJ9dyBJU_F0zwvAe28JhBDgy05GXzDr560G13O-o4k/edit
+Week 1: https://repl.it/@rworthman/GWCweek1
+Design details: https://drive.google.com/open?id=1zMXI4RGCabEFsR0HTkevGZ7MZFza_Ywr
 
-GWC Team Page repl https://repl.it/@rworthman/gwc-team
