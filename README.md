@@ -7,7 +7,7 @@ Week 1: https://repl.it/@rworthman/GWCweek1
 Design details: https://drive.google.com/open?id=1zMXI4RGCabEFsR0HTkevGZ7MZFza_Ywr
 <br>
 
-Week 2: 
+Week 2: <br>
 Fork: <a href="https://repl.it/@rworthman/GWC-2-text" target="_blank">Text Exercise</a>
 <br>
 Fork: <a href="https://repl.it/@rworthman/styling-practice" target="_blank">CSS Styling Practice</a>
