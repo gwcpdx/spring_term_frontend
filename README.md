@@ -1,9 +1,13 @@
 # Spring Term Front End Repository!
-
+<a href="https://docs.google.com/drawings/d/1QxBz89UzDeJMgwTAGWOcU09sswdHm9cspBBxPXa3Mms/edit?usp=sharing" target="_blank">Syntax Keyboard Cheat Sheet</a>
+<br>
+<br>
 Week 1: https://repl.it/@rworthman/GWCweek1
 <br>
 Design details: https://drive.google.com/open?id=1zMXI4RGCabEFsR0HTkevGZ7MZFza_Ywr
 <br>
 
-Week 2: https://repl.it/@rworthman/styling-practice
+Week 2: 
+Fork: <a href="https://repl.it/@rworthman/GWC-2-text" target="_blank">Text Exercise</a>
 <br>
+Fork: <a href="https://repl.it/@rworthman/styling-practice" target="_blank">CSS Styling Practice</a>
