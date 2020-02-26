@@ -11,3 +11,13 @@ Week 2: <br>
 Fork: <a href="https://repl.it/@rworthman/GWC-2-text" target="_blank">Text Exercise</a>
 <br>
 Fork: <a href="https://repl.it/@rworthman/styling-practice" target="_blank">CSS Styling Practice</a>
+<br>
+
+Week 3: <br>
+Fork: <a href="https://repl.it/@rworthman/styling-practice" target="_blank">CSS Styling Practice</a>
+<br>
+Test your knowledge (game!): <a href="https://flukeout.github.io/" target="_blank">CSS Diner</a>
+<br>
+Fork: <a href="https://repl.it/@rworthman/flexbox-livecode" target="_blank">Intro to Flexbox</a>
+<br>
+Practice (game!): <a href="https://flexboxfroggy.com/" target="_blank">Flex Froggy</a>
