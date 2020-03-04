@@ -21,3 +21,7 @@ Test your knowledge (game!): <a href="https://flukeout.github.io/" target="_blan
 Fork: <a href="https://repl.it/@rworthman/flexbox-livecode" target="_blank">Intro to Flexbox</a>
 <br>
 Practice (game!): <a href="https://flexboxfroggy.com/" target="_blank">Flex Froggy</a>
+<br>
+
+Week 4: <br>
+Open in new tab: <a href="https://docs.google.com/document/d/1Zo31ZHvN6w_YeZpsNW40yqiaTdcbLnrp3c2hN43GpI4/edit?usp=sharing" target="_blank">Blueprint and page copy</a> <br>
